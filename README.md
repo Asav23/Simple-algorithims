@@ -1,2 +1,2 @@
 # Simple-algorithims
-Basic questions i enjoy practising and combing back to
+Basic questions I enjoy revisiting and studying.
